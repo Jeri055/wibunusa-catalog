@@ -436,7 +436,23 @@
    "channel": "muse",
    "date": "03 Okt 2026",
    "day": 6,
-   "episodes": [],
+   "episodes": [
+    {
+     "ep": 5,
+     "title": "Reinkarnasi Santa Agung yang Menyembunyikan Jati Dirinya Sebagai Santa - Eps 05 [Takarir Indonesia]",
+     "videoId": "VcCEsWbiq4c"
+    },
+    {
+     "ep": 6,
+     "title": "Reinkarnasi Santa Agung yang Menyembunyikan Jati Dirinya Sebagai Santa - Eps 06 [Takarir Indonesia]",
+     "videoId": "QLnZBFqELyY"
+    },
+    {
+     "ep": 8,
+     "title": "Reinkarnasi Santa Agung yang Menyembunyikan Jati Dirinya Sebagai Santa - Eps 08 [Takarir Indonesia]",
+     "videoId": "lfpWfIwlTH4"
+    }
+   ],
    "eps": 8,
    "genres": [
     "Fantasy",
@@ -448,8 +464,8 @@
    "jp": "転生した大聖女",
    "kitsuId": "50850",
    "likes": "35 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 3 Okt 2026 dengan Episode 1+2 sekaligus, lalu tiap Sabtu 20.00 WIB — jadwal resmi e-muse). 8 episode terbit per 17 Nov 2026, tapi belum ada ID video yang berhasil diverifikasi.",
-   "linkStatus": "no-link",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 3 Okt 2026 dengan Episode 1+2 sekaligus, lalu tiap Sabtu 20.00 WIB — jadwal resmi e-muse). 8 episode terbit per 17 Nov 2026. Episode 5, 6, dan 8 terverifikasi langsung dari kanal Muse Indonesia (RSS kanal + halaman video, 2026-11-18); audio Jepang + takarir Indonesia. Episode 1–4 dan 7 belum berhasil ditemukan ID-nya lewat pencarian teks.",
+   "linkStatus": "partial",
    "mono": "聖",
    "poster": "https://media.kitsu.app/anime/50850/poster_image/large-eec4d1d89df41fa255c7619aea435642.jpeg",
    "rating": "7.9",
@@ -2369,6 +2385,6 @@
   }
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
- "updatedAt": "2026-11-17",
- "version": "1.4"
+ "updatedAt": "2026-11-18",
+ "version": "1.5"
 }
