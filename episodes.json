@@ -484,8 +484,14 @@
    "channel": "muse",
    "date": "07 Okt 2026",
    "day": 3,
-   "episodes": [],
-   "eps": 6,
+   "episodes": [
+    {
+     "ep": 7,
+     "title": "The Detective Is Already Dead. Season 2 - Episode 07 [Takarir Indonesia]",
+     "videoId": "RCk8zJJtM3I"
+    }
+   ],
+   "eps": 7,
    "genres": [
     "Mystery",
     "Romance",
@@ -496,8 +502,8 @@
    "jp": "探偵はもう、死んでいる。",
    "kitsuId": "46275",
    "likes": "31 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 7 Okt 2026, episode baru tiap Rabu 20.30 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026, tapi belum ada ID video yang berhasil diverifikasi.",
-   "linkStatus": "no-link",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 7 Okt 2026, episode baru tiap Rabu 20.30 WIB — jadwal resmi e-muse). 7 episode terbit per 19 Nov 2026. Episode 7 terverifikasi langsung dari halaman video Muse Indonesia (2026-11-19); audio Jepang + takarir Indonesia. Episode 1–6 belum berhasil ditemukan ID-nya lewat pencarian teks.",
+   "linkStatus": "partial",
    "mono": "探",
    "poster": "https://media.kitsu.app/anime/46275/poster_image/large-aa66643195057e12c0bb11b96fdf7787.jpeg",
    "rating": "7.8",
@@ -548,8 +554,14 @@
    "channel": "muse",
    "date": "07 Okt 2026",
    "day": 3,
-   "episodes": [],
-   "eps": 6,
+   "episodes": [
+    {
+     "ep": 7,
+     "title": "Sasaki dan Pipi S2 - Episode 19 (S2E07) [Takarir Indonesia]",
+     "videoId": "91OGaVzYAPk"
+    }
+   ],
+   "eps": 7,
    "genres": [
     "Fantasy",
     "Comedy",
@@ -560,8 +572,8 @@
    "jp": "佐々木とピーちゃん",
    "kitsuId": "48651",
    "likes": "24 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 7 Okt 2026, episode baru tiap Rabu 20.00 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026, tapi belum ada ID video yang berhasil diverifikasi.",
-   "linkStatus": "no-link",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 7 Okt 2026, episode baru tiap Rabu 20.00 WIB — jadwal resmi e-muse). 7 episode terbit per 19 Nov 2026. Episode 7 (S2E07) terverifikasi langsung dari halaman video Muse Indonesia (2026-11-19); audio Jepang + takarir Indonesia. Episode 1–6 belum berhasil ditemukan ID-nya lewat pencarian teks.",
+   "linkStatus": "partial",
    "mono": "佐",
    "poster": "https://media.kitsu.app/anime/48651/poster_image/large-486d7213052ac1c783a025f1f7de8cc6.jpeg",
    "rating": "7.6",
@@ -2385,6 +2397,6 @@
   }
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
- "updatedAt": "2026-11-18",
- "version": "1.5"
+ "updatedAt": "2026-11-19",
+ "version": "1.6"
 }
