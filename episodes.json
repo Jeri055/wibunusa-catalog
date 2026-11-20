@@ -424,6 +424,11 @@
      "ep": 4,
      "title": "Pernikahan Kunang-kunang - Episode 04 [Takarir Indonesia]",
      "videoId": "VFa53oC-1EY"
+    },
+    {
+     "ep": 5,
+     "title": "Pernikahan Kunang-kunang - Episode 05 [Takarir Indonesia]",
+     "videoId": "XzL3LGkh6w0"
     }
    ],
    "eps": 6,
@@ -437,7 +442,7 @@
    "jp": "ホタルの嫁入り",
    "kitsuId": "50471",
    "likes": "63 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 23.00 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026. Episode 1–4 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20 Nov 2026; episode 5–6 penuh belum tayang (baru pratinjau), episode 7 dijadwalkan Jumat 20 Nov 23.00 WIB.",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 23.00 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026. Episode 1–5 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20–21 Nov 2026; episode 5 terverifikasi 21 Nov 2026 (videoId XzL3LGkh6w0). Episode 6 penuh belum terverifikasi; episode 7 dijadwalkan Jumat 20 Nov 23.00 WIB.",
    "linkStatus": "partial",
    "mono": "ホ",
    "poster": "https://media.kitsu.app/anime/50471/poster_image/large-9a05f244f74b31ac1d41074ec61d4f38.jpeg",
@@ -2519,6 +2524,6 @@
   }
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
- "updatedAt": "2026-11-20",
- "version": "1.8"
+ "updatedAt": "2026-11-21",
+ "version": "1.9"
 }
