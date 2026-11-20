@@ -608,9 +608,14 @@
      "ep": 6,
      "title": "A Certain Item of Dark Side - Episode 06 [Takarir Indonesia]",
      "videoId": "6O7zagw-_PQ"
+    },
+    {
+     "ep": 7,
+     "title": "A Certain Item of Dark Side - Episode 07 [Takarir Indonesia]",
+     "videoId": "ZMycHX16uaY"
     }
    ],
-   "eps": 6,
+   "eps": 7,
    "genres": [
     "Action",
     "Sci-Fi",
@@ -621,7 +626,7 @@
    "jp": "とある暗部の少女共棲",
    "kitsuId": "49564",
    "likes": "27 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 22.30 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026. Episode 1–6 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20 Nov 2026.",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 22.30 WIB — jadwal resmi e-muse). 7 episode terbit per 20 Nov 2026. Episode 1–7 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20 Nov 2026.",
    "linkStatus": "partial",
    "mono": "暗",
    "poster": "https://media.kitsu.app/anime/49564/poster_image/large-6105ec1a399b3d3880691eb8f373e1aa.jpeg",
@@ -2515,5 +2520,5 @@
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
  "updatedAt": "2026-11-20",
- "version": "1.7"
+ "version": "1.8"
 }
