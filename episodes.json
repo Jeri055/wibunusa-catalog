@@ -362,6 +362,12 @@
      "videoId": "SzbqGmCA5Q4"
     },
     {
+     "ep": 6,
+     "note": "Unggahan kanal Ani-One Asia (subtitle Mandarin Tradisional, audio Jepang; versi Ani-One Indonesia untuk episode ini belum berhasil ditemukan ID-nya).",
+     "title": "《The Anime「幻想水滸傳」》#6 (繁中字幕 | 日語原聲)【Ani-One Asia】",
+     "videoId": "abDeEoO6UWM"
+    },
+    {
      "ep": 7,
      "title": "Suikoden: The Anime Episode 7 - Sub Indo | Dub JP 〖 Ani-One Indonesia 〗",
      "videoId": "4JZylf9kIy4"
@@ -378,7 +384,7 @@
    "jp": "幻想水滸伝",
    "kitsuId": "50988",
    "likes": "41 rb",
-   "linkNote": "Judul ongoing Fall 2026 dari Ani-One (lisensi Ani-One Asia; versi subtitle Indonesia tayang di kanal resmi Ani-One Indonesia). Total rencana 23 episode (2 cour, sampai Maret 2027); 7 episode terbit per 17 Nov 2026. Terverifikasi langsung dari halaman video resmi: Episode 3, 5, 7 di Ani-One Indonesia dan Episode 4 di Ani-One Asia. Episode 1, 2, dan 6 belum berhasil ditemukan ID-nya lewat pencarian (kemungkinan video premiere yang indeks pencariannya terbatas) — tidak dicantumkan daripada memakai sumber tidak resmi.",
+   "linkNote": "Judul ongoing Fall 2026 dari Ani-One (lisensi Ani-One Asia; versi subtitle Indonesia tayang di kanal resmi Ani-One Indonesia). Total rencana 23 episode (2 cour, sampai Maret 2027); 7 episode terbit per 17 Nov 2026. Terverifikasi langsung dari halaman video resmi: Episode 3, 5, 7 di Ani-One Indonesia dan Episode 4, 6 di Ani-One Asia (Episode 6 subtitle Mandarin Tradisional, audio Jepang; versi Ani-One Indonesia belum ditemukan ID-nya). Episode 1 dan 2 belum berhasil ditemukan ID-nya lewat pencarian (kemungkinan video premiere yang indeks pencariannya terbatas) — tidak dicantumkan daripada memakai sumber tidak resmi.",
    "linkStatus": "partial",
    "mono": "水",
    "poster": "https://media.kitsu.app/anime/50988/poster_image/large-4ad763b7c37cea7960691f18ade767d2.jpeg",
@@ -400,9 +406,24 @@
    "day": 5,
    "episodes": [
     {
+     "ep": 1,
+     "title": "Pernikahan Kunang-kunang - Episode 01 [Takarir Indonesia]",
+     "videoId": "KU1QRn49_iU"
+    },
+    {
      "ep": 2,
      "title": "Pernikahan Kunang-kunang - Episode 02 [Takarir Indonesia]",
      "videoId": "XwoKwTY5yDM"
+    },
+    {
+     "ep": 3,
+     "title": "Pernikahan Kunang-kunang - Episode 03 [Takarir Indonesia]",
+     "videoId": "_xTCdeegEgw"
+    },
+    {
+     "ep": 4,
+     "title": "Pernikahan Kunang-kunang - Episode 04 [Takarir Indonesia]",
+     "videoId": "VFa53oC-1EY"
     }
    ],
    "eps": 6,
@@ -416,7 +437,7 @@
    "jp": "ホタルの嫁入り",
    "kitsuId": "50471",
    "likes": "63 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 23.00 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026. Episode 2 terverifikasi langsung dari halaman video Muse Indonesia; Episode 1 belum berhasil ditemukan ID-nya.",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 23.00 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026. Episode 1–4 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20 Nov 2026; episode 5–6 penuh belum tayang (baru pratinjau), episode 7 dijadwalkan Jumat 20 Nov 23.00 WIB.",
    "linkStatus": "partial",
    "mono": "ホ",
    "poster": "https://media.kitsu.app/anime/50471/poster_image/large-9a05f244f74b31ac1d41074ec61d4f38.jpeg",
@@ -448,6 +469,11 @@
      "videoId": "QLnZBFqELyY"
     },
     {
+     "ep": 7,
+     "title": "Reinkarnasi Santa Agung yang Menyembunyikan Jati Dirinya Sebagai Santa - Eps 07 [Takarir Indonesia]",
+     "videoId": "_Hz44aEnx8c"
+    },
+    {
      "ep": 8,
      "title": "Reinkarnasi Santa Agung yang Menyembunyikan Jati Dirinya Sebagai Santa - Eps 08 [Takarir Indonesia]",
      "videoId": "lfpWfIwlTH4"
@@ -464,7 +490,7 @@
    "jp": "転生した大聖女",
    "kitsuId": "50850",
    "likes": "35 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 3 Okt 2026 dengan Episode 1+2 sekaligus, lalu tiap Sabtu 20.00 WIB — jadwal resmi e-muse). 8 episode terbit per 17 Nov 2026. Episode 5, 6, dan 8 terverifikasi langsung dari kanal Muse Indonesia (RSS kanal + halaman video, 2026-11-18); audio Jepang + takarir Indonesia. Episode 1–4 dan 7 belum berhasil ditemukan ID-nya lewat pencarian teks.",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 3 Okt 2026 dengan Episode 1+2 sekaligus, lalu tiap Sabtu 20.00 WIB — jadwal resmi e-muse). 8 episode terbit per 17 Nov 2026. Episode 5, 6, 7, dan 8 terverifikasi langsung dari kanal Muse Indonesia (RSS kanal + halaman video, 2026-11-18 dan 20 Nov 2026); audio Jepang + takarir Indonesia. Episode 1–4 belum berhasil ditemukan ID-nya lewat pencarian teks.",
    "linkStatus": "partial",
    "mono": "聖",
    "poster": "https://media.kitsu.app/anime/50850/poster_image/large-eec4d1d89df41fa255c7619aea435642.jpeg",
@@ -486,6 +512,36 @@
    "day": 3,
    "episodes": [
     {
+     "ep": 1,
+     "title": "The Detective Is Already Dead. Season 2 - Episode 01 [Takarir Indonesia]",
+     "videoId": "OwQluHyIlOg"
+    },
+    {
+     "ep": 2,
+     "title": "The Detective Is Already Dead. Season 2 - Episode 02 [Takarir Indonesia]",
+     "videoId": "6haWen_Ygb4"
+    },
+    {
+     "ep": 3,
+     "title": "The Detective Is Already Dead. Season 2 - Episode 03 [Takarir Indonesia]",
+     "videoId": "q8l3UzUfCLI"
+    },
+    {
+     "ep": 4,
+     "title": "The Detective Is Already Dead. Season 2 - Episode 04 [Takarir Indonesia]",
+     "videoId": "Gnv00_wXaIo"
+    },
+    {
+     "ep": 5,
+     "title": "The Detective Is Already Dead. Season 2 - Episode 05 [Takarir Indonesia]",
+     "videoId": "7-mjRRO3GVQ"
+    },
+    {
+     "ep": 6,
+     "title": "The Detective Is Already Dead. Season 2 - Episode 06 [Takarir Indonesia]",
+     "videoId": "TAmaNQJ3-aQ"
+    },
+    {
      "ep": 7,
      "title": "The Detective Is Already Dead. Season 2 - Episode 07 [Takarir Indonesia]",
      "videoId": "RCk8zJJtM3I"
@@ -502,7 +558,7 @@
    "jp": "探偵はもう、死んでいる。",
    "kitsuId": "46275",
    "likes": "31 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 7 Okt 2026, episode baru tiap Rabu 20.30 WIB — jadwal resmi e-muse). 7 episode terbit per 19 Nov 2026. Episode 7 terverifikasi langsung dari halaman video Muse Indonesia (2026-11-19); audio Jepang + takarir Indonesia. Episode 1–6 belum berhasil ditemukan ID-nya lewat pencarian teks.",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 7 Okt 2026, episode baru tiap Rabu 20.30 WIB — jadwal resmi e-muse). 7 episode terbit per 19 Nov 2026. Episode 7 terverifikasi langsung dari halaman video Muse Indonesia (2026-11-19); audio Jepang + takarir Indonesia. Episode 1–6 terverifikasi langsung dari kanal Muse Indonesia, 20 Nov 2026; audio Jepang + takarir Indonesia.",
    "linkStatus": "partial",
    "mono": "探",
    "poster": "https://media.kitsu.app/anime/46275/poster_image/large-aa66643195057e12c0bb11b96fdf7787.jpeg",
@@ -522,7 +578,38 @@
    "channel": "muse",
    "date": "09 Okt 2026",
    "day": 5,
-   "episodes": [],
+   "episodes": [
+    {
+     "ep": 1,
+     "title": "A Certain Item of Dark Side - Episode 01 [Takarir Indonesia]",
+     "videoId": "l4h0in-XX7s"
+    },
+    {
+     "ep": 2,
+     "title": "A Certain Item of Dark Side - Episode 02 [Takarir Indonesia]",
+     "videoId": "8YWd3B0GC2g"
+    },
+    {
+     "ep": 3,
+     "title": "A Certain Item of Dark Side - Episode 03 [Takarir Indonesia]",
+     "videoId": "ECL0VO8Vcq0"
+    },
+    {
+     "ep": 4,
+     "title": "A Certain Item of Dark Side - Episode 04 [Takarir Indonesia]",
+     "videoId": "f1th9zg-JFg"
+    },
+    {
+     "ep": 5,
+     "title": "A Certain Item of Dark Side - Episode 05 [Takarir Indonesia]",
+     "videoId": "Lhd8niw_OoI"
+    },
+    {
+     "ep": 6,
+     "title": "A Certain Item of Dark Side - Episode 06 [Takarir Indonesia]",
+     "videoId": "6O7zagw-_PQ"
+    }
+   ],
    "eps": 6,
    "genres": [
     "Action",
@@ -534,8 +621,8 @@
    "jp": "とある暗部の少女共棲",
    "kitsuId": "49564",
    "likes": "27 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 22.30 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026, tapi belum ada ID video yang berhasil diverifikasi.",
-   "linkStatus": "no-link",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 22.30 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026. Episode 1–6 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20 Nov 2026.",
+   "linkStatus": "partial",
    "mono": "暗",
    "poster": "https://media.kitsu.app/anime/49564/poster_image/large-6105ec1a399b3d3880691eb8f373e1aa.jpeg",
    "rating": "7.7",
@@ -556,6 +643,36 @@
    "day": 3,
    "episodes": [
     {
+     "ep": 1,
+     "title": "Sasaki dan Pipi S2 - Episode 13 (S2E01) [Takarir Indonesia]",
+     "videoId": "uXhn0Lucm8A"
+    },
+    {
+     "ep": 2,
+     "title": "Sasaki dan Pipi S2 - Episode 14 (S2E02) [Takarir Indonesia]",
+     "videoId": "awuE9tNe5Zw"
+    },
+    {
+     "ep": 3,
+     "title": "Sasaki dan Pipi S2 - Episode 15 (S2E03) [Takarir Indonesia]",
+     "videoId": "vVaHCLTxX30"
+    },
+    {
+     "ep": 4,
+     "title": "Sasaki dan Pipi S2 - Episode 16 (S2E04) [Takarir Indonesia]",
+     "videoId": "Y58nZIsyHaE"
+    },
+    {
+     "ep": 5,
+     "title": "Sasaki dan Pipi S2 - Episode 17 (S2E05) [Takarir Indonesia]",
+     "videoId": "ta86SvBU_qU"
+    },
+    {
+     "ep": 6,
+     "title": "Sasaki dan Pipi S2 - Episode 18 (S2E06) [Takarir Indonesia]",
+     "videoId": "mE9ioyggvPI"
+    },
+    {
      "ep": 7,
      "title": "Sasaki dan Pipi S2 - Episode 19 (S2E07) [Takarir Indonesia]",
      "videoId": "91OGaVzYAPk"
@@ -572,7 +689,7 @@
    "jp": "佐々木とピーちゃん",
    "kitsuId": "48651",
    "likes": "24 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 7 Okt 2026, episode baru tiap Rabu 20.00 WIB — jadwal resmi e-muse). 7 episode terbit per 19 Nov 2026. Episode 7 (S2E07) terverifikasi langsung dari halaman video Muse Indonesia (2026-11-19); audio Jepang + takarir Indonesia. Episode 1–6 belum berhasil ditemukan ID-nya lewat pencarian teks.",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 7 Okt 2026, episode baru tiap Rabu 20.00 WIB — jadwal resmi e-muse). 7 episode terbit per 19 Nov 2026. Episode 7 (S2E07) terverifikasi langsung dari halaman video Muse Indonesia (2026-11-19); audio Jepang + takarir Indonesia. Episode 1–6 (S2E01–S2E06) terverifikasi langsung dari kanal Muse Indonesia, 20 Nov 2026; audio Jepang + takarir Indonesia.",
    "linkStatus": "partial",
    "mono": "佐",
    "poster": "https://media.kitsu.app/anime/48651/poster_image/large-486d7213052ac1c783a025f1f7de8cc6.jpeg",
@@ -2397,6 +2514,6 @@
   }
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
- "updatedAt": "2026-11-19",
- "version": "1.6"
+ "updatedAt": "2026-11-20",
+ "version": "1.7"
 }
