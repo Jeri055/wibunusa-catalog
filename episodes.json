@@ -2825,6 +2825,11 @@
      "videoId": "VSG6P43ztXM"
     },
     {
+     "ep": 73,
+     "title": "Gintama Season 2 Episode 73 - Sub Indo | Dub JP ",
+     "videoId": "c74LnHAbh7M"
+    },
+    {
      "ep": 74,
      "title": "Gintama Season 2 Episode 74 - Sub Indo | Dub JP ",
      "videoId": "aHRhPIvioBI"
@@ -2841,7 +2846,7 @@
    "jp": "銀魂'",
    "kitsuId": "5971",
    "likes": "—",
-   "linkNote": "Episode 69–72 dan 74 Season 2 (video penuh, Sub Indo | Dub JP; nomor episode mengikuti judul resmi Ani-One) terverifikasi langsung dari kanal Ani-One Indonesia, 22 Nov 2026. Episode 73 belum ditemukan ID-nya di kanal resmi.",
+   "linkNote": "Episode 69–74 Season 2 (video penuh, Sub Indo | Dub JP; nomor episode mengikuti judul resmi Ani-One) terverifikasi langsung dari kanal Ani-One Indonesia, 22 Nov 2026.",
    "linkStatus": "partial",
    "mono": "銀",
    "poster": "https://media.kitsu.app/anime/poster_images/5971/large.jpg",
@@ -2929,5 +2934,5 @@
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
  "updatedAt": "2026-11-22",
- "version": "2.2"
+ "version": "2.3"
 }
