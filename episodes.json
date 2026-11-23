@@ -351,6 +351,11 @@
      "videoId": "FD-bqu5k1GE"
     },
     {
+     "ep": 2,
+     "title": "Suikoden: The Anime Episode 2- Sub Indo | Dub JP 【 Ani-One Indonesia 】",
+     "videoId": "kU29XxFZixs"
+    },
+    {
      "ep": 3,
      "title": "Suikoden: The Anime Episode 3 - Sub Indo | Dub JP 〖 Ani-One Indonesia 〗",
      "videoId": "wRFiUlgRJLw"
@@ -388,7 +393,7 @@
    "jp": "幻想水滸伝",
    "kitsuId": "50988",
    "likes": "41 rb",
-   "linkNote": "Judul ongoing Fall 2026 dari Ani-One (lisensi Ani-One Asia; versi subtitle Indonesia tayang di kanal resmi Ani-One Indonesia). Total rencana 23 episode (2 cour, sampai Maret 2027); 7 episode terbit per 17 Nov 2026, Episode 8 dijadwalkan 24 Nov 2026. Terverifikasi langsung dari halaman video resmi: Episode 1, 3, 5, 6, 7 di Ani-One Indonesia dan Episode 4 di Ani-One Asia (subtitle Inggris, audio Jepang; versi Ani-One Indonesia belum ditemukan ID-nya). Episode 2 belum berhasil ditemukan ID-nya — tidak dicantumkan daripada memakai sumber tidak resmi.",
+   "linkNote": "Judul ongoing Fall 2026 dari Ani-One (lisensi Ani-One Asia; versi subtitle Indonesia tayang di kanal resmi Ani-One Indonesia). Total rencana 23 episode (2 cour, sampai Maret 2027); 7 episode terbit per 17 Nov 2026, Episode 8 dijadwalkan 24 Nov 2026. Terverifikasi langsung dari halaman video resmi: Episode 1, 2, 3, 5, 6, 7 di Ani-One Indonesia dan Episode 4 di Ani-One Asia (subtitle Inggris, audio Jepang; versi Ani-One Indonesia belum ditemukan ID-nya). Episode 2 terverifikasi 23 Nov 2026 dari kanal Ani-One Indonesia.",
    "linkStatus": "partial",
    "mono": "水",
    "poster": "https://media.kitsu.app/anime/50988/poster_image/large-4ad763b7c37cea7960691f18ade767d2.jpeg",
@@ -1469,7 +1474,63 @@
    "channel": "muse",
    "date": "11 Apr 2021",
    "day": 0,
-   "episodes": [],
+   "episodes": [
+    {
+     "ep": 1,
+     "title": "Tokyo Revengers - Episode 01 [Takarir Indonesia]",
+     "videoId": "ZXrF7AM94Os"
+    },
+    {
+     "ep": 2,
+     "title": "Tokyo Revengers - Episode 02 [Takarir Indonesia]",
+     "videoId": "r6S8jUZorgU"
+    },
+    {
+     "ep": 3,
+     "title": "Tokyo Revengers - Episode 03 [Takarir Indonesia]",
+     "videoId": "KSdCnQ7U0_g"
+    },
+    {
+     "ep": 5,
+     "title": "Tokyo Revengers - Episode 05 [Takarir Indonesia]",
+     "videoId": "hs9O0OEKj1U"
+    },
+    {
+     "ep": 6,
+     "title": "Tokyo Revengers - Episode 06 [Takarir Indonesia]",
+     "videoId": "YDPidKh3RF0"
+    },
+    {
+     "ep": 7,
+     "title": "Tokyo Revengers - Episode 07 [Takarir Indonesia]",
+     "videoId": "kEjhfG8_H0I"
+    },
+    {
+     "ep": 8,
+     "title": "Tokyo Revengers - Episode 08 [Takarir Indonesia]",
+     "videoId": "twBRfKd9vjs"
+    },
+    {
+     "ep": 9,
+     "title": "Tokyo Revengers - Episode 09 [Takarir Indonesia]",
+     "videoId": "K6vvixguPPs"
+    },
+    {
+     "ep": 10,
+     "title": "Tokyo Revengers - Episode 10 [Takarir Indonesia]",
+     "videoId": "lMLcTgPNKwY"
+    },
+    {
+     "ep": 11,
+     "title": "Tokyo Revengers - Episode 11 [Takarir Indonesia]",
+     "videoId": "FP0oVcOGcck"
+    },
+    {
+     "ep": 12,
+     "title": "Tokyo Revengers - Episode 12 [Takarir Indonesia]",
+     "videoId": "M8UvyD7vsZA"
+    }
+   ],
    "eps": 24,
    "genres": [
     "Action",
@@ -1481,8 +1542,8 @@
    "jp": "東京リベンジャーズ",
    "kitsuId": "43321",
    "likes": "243 rb",
-   "linkNote": "Musim pertama termasuk daftar judul distribusi resmi Muse Communication (Wikipedia, catatan: musim pertama saja). ID video episode belum terverifikasi, jadi belum ada tautan putar.",
-   "linkStatus": "no-link",
+   "linkNote": "Musim pertama termasuk daftar judul distribusi resmi Muse Communication (Wikipedia, catatan: musim pertama saja). Episode 1–3 dan 5–12 terverifikasi langsung dari kanal resmi Muse Indonesia, 23 Nov 2026 ([Takarir Indonesia] = audio Jepang + subtitle Indonesia); Episode 4 belum muncul di kanal.",
+   "linkStatus": "partial",
    "mono": "東",
    "poster": "https://media.kitsu.app/anime/poster_images/43321/large.jpg",
    "rating": "7.9",
@@ -2933,6 +2994,6 @@
   }
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
- "updatedAt": "2026-11-22",
- "version": "2.3"
+ "updatedAt": "2026-11-23",
+ "version": "2.4"
 }
