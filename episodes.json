@@ -2977,6 +2977,43 @@
    "time": "00:00",
    "title": "Magic Knight Rayearth",
    "views": "—"
+  },
+  {
+   "alt": "Super Psychic Policeman Chojo",
+   "c1": "#1d3a6b",
+   "c2": "#0d1b2e",
+   "channel": "anioneid",
+   "date": "06 Okt 2026",
+   "day": 2,
+   "episodes": [
+    {
+     "ep": 8,
+     "title": "Polisi Psikis Chojo-senpai Episode 8 - Sub Indo | Dub JP",
+     "videoId": "VZJbNTW0tDo"
+    }
+   ],
+   "eps": 12,
+   "genres": [
+    "Comedy",
+    "Supernatural"
+   ],
+   "id": "chojosenpai",
+   "isNew": true,
+   "jp": "超巡！超条先輩",
+   "kitsuId": "50261",
+   "likes": "—",
+   "linkNote": "Episode 8 terverifikasi langsung dari kanal Ani-One Indonesia, 24 Nov 2026: deskripsi video menyebut 'Episode 8 - Kepala Polisi Pemburu Bocil / Kepala Polisi Pengawas', tayang tiap Selasa 21:30 WIB, audio Jepang + subtitle Indonesia (Dub JP). Judul YouTube-nya sendiri lupa mencantumkan nomor episode. Video premier 24 Nov 2026. Episode 1-7 belum masuk katalog.",
+   "linkStatus": "partial",
+   "mono": "超",
+   "poster": "https://media.kitsu.app/anime/50261/poster_image/large-8781617d983b69012cb2feac62645c34.jpeg",
+   "rating": "—",
+   "status": "Ongoing",
+   "studio": "Arvo Animation",
+   "subs": "—",
+   "synopsis": "Di Chinjuku, kota yang tak pernah tidur, ada polisi senior berkekuatan psikis di luar nalar manusia: Meguru Chojo. Bersama rekannya, polisi baru ahli judo Nao Ippongi yang dijuluki Gorila, duo kocak ini menjaga keamanan distrik dengan segala cara.",
+   "time": "21:30",
+   "title": "Polisi Psikis Chojo-senpai",
+   "views": "—"
   }
  ],
  "channels": {
@@ -2994,6 +3031,6 @@
   }
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
- "updatedAt": "2026-11-23",
- "version": "2.4"
+ "updatedAt": "2026-11-24",
+ "version": "2.5"
 }
