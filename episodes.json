@@ -700,9 +700,14 @@
      "ep": 7,
      "title": "Sasaki dan Pipi S2 - Episode 19 (S2E07) [Takarir Indonesia]",
      "videoId": "91OGaVzYAPk"
+    },
+    {
+     "ep": 8,
+     "title": "Sasaki dan Pipi S2 - Episode 20 (S2E08) [Takarir Indonesia]",
+     "videoId": "2V3fskQsan0"
     }
    ],
-   "eps": 7,
+   "eps": 8,
    "genres": [
     "Fantasy",
     "Comedy",
@@ -3031,6 +3036,6 @@
   }
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
- "updatedAt": "2026-11-24",
- "version": "2.5"
+ "updatedAt": "2026-11-25",
+ "version": "2.6"
 }
