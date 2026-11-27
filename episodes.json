@@ -1501,6 +1501,11 @@
      "videoId": "KSdCnQ7U0_g"
     },
     {
+     "ep": 4,
+     "title": "Tokyo Revengers - Episode 04 [Takarir Indonesia]",
+     "videoId": "Bik3142cmPk"
+    },
+    {
      "ep": 5,
      "title": "Tokyo Revengers - Episode 05 [Takarir Indonesia]",
      "videoId": "hs9O0OEKj1U"
@@ -1552,7 +1557,7 @@
    "jp": "東京リベンジャーズ",
    "kitsuId": "43321",
    "likes": "243 rb",
-   "linkNote": "Musim pertama termasuk daftar judul distribusi resmi Muse Communication (Wikipedia, catatan: musim pertama saja). Episode 1–3 dan 5–12 terverifikasi langsung dari kanal resmi Muse Indonesia, 23 Nov 2026 ([Takarir Indonesia] = audio Jepang + subtitle Indonesia); Episode 4 belum muncul di kanal.",
+   "linkNote": "Musim pertama termasuk daftar judul distribusi resmi Muse Communication (Wikipedia, catatan: musim pertama saja). Episode 1-12 terverifikasi langsung dari kanal resmi Muse Indonesia, 23 Nov 2026 (Ep 1-3, 5-12) dan 27 Nov 2026 (Ep 4, videoId Bik3142cmPk, durasi 1422 dtk, oEmbed author Muse Indonesia); [Takarir Indonesia] = audio Jepang + subtitle Indonesia.",
    "linkStatus": "partial",
    "mono": "東",
    "poster": "https://media.kitsu.app/anime/poster_images/43321/large.jpg",
@@ -3046,6 +3051,6 @@
   }
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
- "updatedAt": "2026-11-26",
- "version": "2.7"
+ "updatedAt": "2026-11-27",
+ "version": "2.8"
 }
