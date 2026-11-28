@@ -438,6 +438,11 @@
      "ep": 5,
      "title": "Pernikahan Kunang-kunang - Episode 05 [Takarir Indonesia]",
      "videoId": "XzL3LGkh6w0"
+    },
+    {
+     "ep": 6,
+     "title": "Pernikahan Kunang-kunang - Episode 06 [Takarir Indonesia]",
+     "videoId": "xZlm6QeVFSg"
     }
    ],
    "eps": 6,
@@ -451,7 +456,7 @@
    "jp": "ホタルの嫁入り",
    "kitsuId": "50471",
    "likes": "63 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 23.00 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026. Episode 1–5 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20–21 Nov 2026; episode 5 terverifikasi 21 Nov 2026 (videoId XzL3LGkh6w0). Episode 6 penuh belum terverifikasi; episode 7 dijadwalkan Jumat 20 Nov 23.00 WIB.",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 23.00 WIB — jadwal resmi e-muse). 6 episode terbit per 17 Nov 2026. Episode 1–5 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20–21 Nov 2026; episode 5 terverifikasi 21 Nov 2026 (videoId XzL3LGkh6w0). Episode 6 terverifikasi langsung dari kanal Muse Indonesia, 28 Nov 2026 (videoId xZlm6QeVFSg).",
    "linkStatus": "partial",
    "mono": "ホ",
    "poster": "https://media.kitsu.app/anime/50471/poster_image/large-9a05f244f74b31ac1d41074ec61d4f38.jpeg",
@@ -496,9 +501,14 @@
      "ep": 9,
      "title": "Reinkarnasi Santa Agung yang Menyembunyikan Jati Dirinya Sebagai Santa - Eps 09 [Takarir Indonesia]",
      "videoId": "npmA8oO6dMk"
+    },
+    {
+     "ep": 10,
+     "title": "Reinkarnasi Santa Agung yang Menyembunyikan Jati Dirinya Sebagai Santa - Eps 10 [Takarir Indonesia]",
+     "videoId": "3-STbK-LnO0"
     }
    ],
-   "eps": 9,
+   "eps": 10,
    "genres": [
     "Fantasy",
     "Romance",
@@ -509,7 +519,7 @@
    "jp": "転生した大聖女",
    "kitsuId": "50850",
    "likes": "35 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 3 Okt 2026 dengan Episode 1+2 sekaligus, lalu tiap Sabtu 20.00 WIB — jadwal resmi e-muse). 9 episode terbit per 21 Nov 2026. Episode 5, 6, 7, 8, dan 9 terverifikasi langsung dari kanal Muse Indonesia (RSS kanal + halaman video, 2026-11-18, 20, dan 21 Nov 2026); audio Jepang + takarir Indonesia. Episode 1–4 belum berhasil ditemukan ID-nya lewat pencarian teks.",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 3 Okt 2026 dengan Episode 1+2 sekaligus, lalu tiap Sabtu 20.00 WIB — jadwal resmi e-muse). 10 episode terbit per 28 Nov 2026. Episode 5, 6, 7, 8, 9, dan 10 terverifikasi langsung dari kanal Muse Indonesia (RSS kanal + halaman video, 2026-11-18, 20, 21, dan 28 Nov 2026); audio Jepang + takarir Indonesia. Episode 1–4 belum berhasil ditemukan ID-nya lewat pencarian teks.",
    "linkStatus": "partial",
    "mono": "聖",
    "poster": "https://media.kitsu.app/anime/50850/poster_image/large-eec4d1d89df41fa255c7619aea435642.jpeg",
@@ -637,9 +647,14 @@
      "ep": 7,
      "title": "A Certain Item of Dark Side - Episode 07 [Takarir Indonesia]",
      "videoId": "ZMycHX16uaY"
+    },
+    {
+     "ep": 8,
+     "title": "A Certain Item of Dark Side - Episode 08 [Takarir Indonesia]",
+     "videoId": "qPvMDIypFLI"
     }
    ],
-   "eps": 7,
+   "eps": 8,
    "genres": [
     "Action",
     "Sci-Fi",
@@ -650,7 +665,7 @@
    "jp": "とある暗部の少女共棲",
    "kitsuId": "49564",
    "likes": "27 rb",
-   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 22.30 WIB — jadwal resmi e-muse). 7 episode terbit per 20 Nov 2026. Episode 1–7 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20 Nov 2026.",
+   "linkNote": "Judul ongoing Fall 2026 Muse Indonesia (tayang perdana 9 Okt 2026, episode baru tiap Jumat 22.30 WIB — jadwal resmi e-muse). 8 episode terbit per 28 Nov 2026. Episode 1–8 (video penuh, Takarir Indonesia) terverifikasi langsung dari kanal Muse Indonesia, 20 dan 28 Nov 2026.",
    "linkStatus": "partial",
    "mono": "暗",
    "poster": "https://media.kitsu.app/anime/49564/poster_image/large-6105ec1a399b3d3880691eb8f373e1aa.jpeg",
@@ -3051,6 +3066,6 @@
   }
  },
  "source": "Episode resmi dari kanal YouTube Muse Indonesia, Ani-One Asia, dan Ani-One Indonesia (Medialink). Hanya video yang channel-nya terverifikasi resmi yang dicantumkan.",
- "updatedAt": "2026-11-27",
- "version": "2.8"
+ "updatedAt": "2026-11-28",
+ "version": "2.9"
 }
